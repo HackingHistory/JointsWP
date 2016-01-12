@@ -3,6 +3,8 @@ Demo: www.jointswp.com/demo
 
 Currently using Foundation 6.1.1.
 
+
+
 ### What is JointsWP?
 JointsWP is a blank WordPress theme built with Foundation 6, giving you all the power and flexibility you need to build complex, mobile friendly websites without having to start from scratch.
 

@@ -7,6 +7,8 @@
 <div id="comments" class="comments-area">
 
 	<?php // You can start editing here ?>
+	<!-- comment -->
+	
 
 	<?php if ( have_comments() ) : ?>
 		<h2 class="comments-title">
