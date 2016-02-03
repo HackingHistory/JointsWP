@@ -54,8 +54,8 @@ $secondary-color: #777;
 $success-color: #3adb76;
 $warning-color: #ffae00;
 $alert-color: #ec5840;
-//$light-gray: #e6e6e6;
-$light-gray: #00ffff;
+$light-gray: #e6e6e6;
+//$light-gray: #00ffff;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a; 
 $black: #0a0a0a;
@@ -305,8 +305,9 @@ $dropdown-sizes: (
 // 17. Dropdown Menu
 // -----------------
 
-$dropdownmenu-arrows: true;
-$dropdownmenu-arrow-color: $anchor-color;
+// $dropdownmenu-arrows: true;
+$dropdownmenu-arrows: false;
+// $dropdownmenu-arrow-color: $anchor-color;
 $dropdownmenu-min-width: 200px;
 $dropdownmenu-background: $white;
 $dropdownmenu-border: 1px solid $medium-gray;
