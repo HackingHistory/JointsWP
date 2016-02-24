@@ -973,7 +973,7 @@ body {
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
-  background: #fefefe;
+  background: #F7F6F5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
@@ -2277,7 +2277,7 @@ legend {
   padding: 1.25rem;
   margin: 1.125rem 0; }
   .fieldset legend {
-    background: #fefefe;
+    background: #F7F6F5;
     padding: 0 0.1875rem;
     margin: 0;
     margin-left: -0.1875rem; }
@@ -2548,7 +2548,7 @@ select {
     margin: 0;
     font-size: inherit; }
     .button-group .button:not(:last-child) {
-      border-right: 1px solid #fefefe; }
+      border-right: 1px solid #F7F6F5; }
   .button-group.tiny {
     font-size: 0.6rem; }
   .button-group.small {
@@ -2602,7 +2602,7 @@ select {
     .button-group.stacked-for-small .button {
       width: auto; }
       .button-group.stacked-for-small .button:not(:last-child) {
-        border-right: 1px solid #fefefe; } }
+        border-right: 1px solid #F7F6F5; } }
 
 .callout {
   margin: 0 0 1rem 0;
@@ -2702,7 +2702,7 @@ select {
   margin-top: 14px; }
 
 .dropdown-pane {
-  background-color: #fefefe;
+  background-color: #F7F6F5;
   border: 1px solid #cacaca;
   display: block;
   padding: 1rem;
@@ -2944,7 +2944,7 @@ body {
 .off-canvas-content,
 .off-canvas-content {
   min-height: 100%;
-  background: #fefefe;
+  background: #F7F6F5;
   transition: -webkit-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-backface-visibility: hidden;
@@ -3693,9 +3693,9 @@ table.hover tr:nth-of-type(even):hover {
     clear: both; }
   .top-bar,
   .top-bar ul {
-    background-color: #e6e6e6; }
+    background-color: #9BEBA3; }
   .top-bar a {
-    color: #2199e8; }
+    color: #228B22; }
   .top-bar input {
     width: 200px;
     margin-right: 1rem; }
