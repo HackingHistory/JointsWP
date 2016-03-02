@@ -50,6 +50,6 @@
 							
 						 <!-- This navs will be applied to the topbar, above all content 
 							  To see additional nav styles, visit the /parts directory -->
-						<?php get_template_part( 'parts/nav', 'title-bar' ); ?>
+					    <?php get_template_part( 'parts/nav', 'topbar' ); ?>
 		 	
 					</header> <!-- end .header -->
