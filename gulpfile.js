@@ -158,7 +158,9 @@ gulp.task('browsersync', function() {
     ];
 
     browserSync.init(files, {
-	    proxy: LOCAL_URL,
+      // Replace with URL of your local site
+      // commenting out for use in docker
+      // proxy: LOCAL_URL,  //"http://localhost/",
     });
     
     gulp.watch(SOURCE.styles, gulp.parallel('styles'));
